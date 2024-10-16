@@ -1,18 +1,18 @@
 import { Icons } from "@/components/icons";
 import { Code, HomeIcon, NotebookPen, SquareTerminal, UserRound } from "lucide-react";
 export const DATA = {
-  name: "Karthikeya varma",
+  name: "TARAKA RAMA",
   url: "https://eldoraui.site/",
-  description:"I'm a frontend developer, optimist, and love building things. I'm currently on a Open-source Project",
+  description:"I am a skilled BIM engineer specializing in both structure and architecture. With experience on diverse projects like multi-story buildings and villas, I excels at using Building Information Modeling (BIM) for precise detailing and effective project management, offering both technical expertise and innovative solutions.",
   description2:" And Focusing on",
   description3:"Which is a open-source web framework built with",
-  summary: "In 2023, I started focusing entirely on building innovative web applications and open-source projects like [Eldora UI](https://eldoraui.site/), after honing my skills through extensive hands-on experience in Full Stack Development. [I'm persing my BTech in Artificial Intelligence at Woxsen University](https://woxsen.edu.in/), where I also gained practical experience through internships at cutting-edge tech companies. Throughout my journey, I've had the opportunity to explore emerging technologies, compete in hackathons, and contribute to collaborative projects. I'm passionate about crafting high-quality, efficient solutions that push the boundaries of web development.",
+  summary: "In 2023, I began my professional journey as a BIM modeler with Nivaas Consultant Engineer (NICE). At NICE, I honed my skills in both structural and architectural design using Building Information Modeling (BIM). My role involved creating detailed models for various construction projects, from multi-story buildings to residential villas. Through this position, I gained valuable experience in project coordination, design detailing, and leveraging BIM technology to optimize workflows. Starting at NICE laid the foundation for my growth as a BIM expert, shaping my technical expertise and problem-solving abilities in the field.",
   apperciation: "Take a moment to explore the recognition I've garnered within the Twitter community for my work on [Eldora UI](https://eldoraui.site/). The positive feedback and appreciation from fellow developers and enthusiasts highlight the impact and value of the [EldoraUI](https://eldoraui.site/) project. It's rewarding to see the project being acknowledged and celebrated within the broader tech community!",
   footer:"Interested in learning more about my professional journey and skill set? [Click here to view my resume](/Mudunuribhaskarakarthikeyavarma-Resume.pdf) and discover the experiences, achievements, and expertise that I bring to the table.",
   linkedin:[
     {
-      title: "karthikmudunuri",
-      href: "https://www.linkedin.com/in/karthikmudunuri/",
+      title: "P R TARAKA RAMA",
+      href: "https://www.linkedin.com/in/tarakarama/",
       icon: "/linkedin-logo.svg",
       profile: "/karthik.jpeg",
     },
@@ -77,77 +77,25 @@ export const DATA = {
     
     {
       id: 1,
-      title: "Next.js",
+      title: "REVIT",
       href: "/next-logo.svg",
-      site: "https://nextjs.org",
+      site: "https://www.autodesk.com/in/products/revit/overview?term=1-YEAR&tab=subscription",
     },
     {
       id: 2,
-      title: "React",
+      title: "AUTOCAD",
       href: "/react-logo.svg",
-      site: "https://react.dev",
+      site: "https://web.autocad.com/login",
     },
     {
       id: 3,
-      title: "Javascript",
+      title: "NAVISWORKS",
       href: "/javascript.svg",
-      site: "https://react.dev",
-    },
-    {
-      id: 4,
-      title: "Typescript",
-      href: "/typescript.svg",
-      site: "https://react.dev",
-    },
-    {
-      id: 12,
-      title: "Python",
-      href: "/python.svg",
-      site: "https://react.dev",
-    },
-    {
-      id: 5,
-      title: "Mdx",
-      href: "/mdxl.svg",
-      site: "https://react.dev",
-    },
-    {
-      id: 6,
-      title: "Tailwind CSS",
-      href: "/tailwindcss.svg",
-      site: "https://react.dev",
-    },
-    {
-      id: 7,
-      title: "Git",
-      href: "/git.svg",
-      site: "https://react.dev",
-    },
-    {
-      id: 8,
-      title: "AWS",
-      href: "/aws.svg",
-      site: "https://react.dev",
+      site: "https://www.autodesk.com/in/products/navisworks/overview?term=1-YEAR&tab=subscription",
     },
     
-    {
-      id: 9,
-      title: "Framer Motion",
-      href: "/fm.svg",
-      site: "https://react.dev",
-    },
-    {
-      id: 10,
-      title: "Php",
-      href: "/php-color.svg",
-      site: "https://react.dev",
-    },
-    {
-      id: 11,
-      title: "MySQL",
-      href: "/mysql.svg",
-      site: "https://react.dev",
-    },
+   
+    
     
     // Import your teck stack here from https://simpleicons.org/ 
   ],
@@ -173,43 +121,32 @@ export const DATA = {
       },
     },
   },
-  worksummary: "On a mission to build products developers love, I'm dedicated to crafting tools that empower and inspire the dev community. With a focus on innovation and user experience, my journey has been about creating solutions that not only meet the needs of today but also set the stage for the future. Here's a comprehensive summary of my work so far, reflecting the passion and precision that drive me forward.",
+  worksummary: "As a BIM engineer, I am committed to turning complex architectural and structural concepts into precise, detailed models that drive efficient project execution. My experience spans large-scale developments, from high-rise buildings to intricate villa designs, where I leverage Building Information Modeling (BIM) to integrate design and construction workflows. By focusing on accuracy and coordination, I ensure seamless communication between project teams and stakeholders. My work is driven by a passion for innovation, continuously pushing the boundaries of what BIM can achieve to create sustainable, forward-thinking solutions for today’s evolving construction landscape.",
   work: [
     {
       id : 1,
-      company: "Articus solutions pvt ltd",
+      company: "Nivaas Consulting Engineers (NICE)",
       href: "https://articussol.com/",
-      title: "React Developer Intern",
+      title: "BIM Engineer",
       logoUrl: "/articus.jpeg",
-      start: "Jan 2024",
-      end: "July 2024",
+      start: "July 2023",
+      end: "Present",
       description:
-        "Spearheading the development of frontend applications using **React** and **Next.js**, with a focus on **Tailwind CSS** and **TypeScript** to create responsive and high-performance user interfaces.Deployed **RESTful APIs** to enable instantaneous data updates and retrieval for dynamic web applications, leading to a 30% boost in user satisfaction and a 20% reduction in server load time.Collaborated closely with designers and backend developers to seamlessly integrate APIs and develop data-driven features, enhancing the functionality and user experience of the application.",
-    },
-    {
-      id : 2,
-      company: "AI Research center - woxsen university",
-      badges: [],
-      href: "https://aircwou.in/",
-      title: "Web developer Intern",
-      logoUrl: "/airc.png",
-      start: "January 2021",
-      end: "April 2021",
-      description:
-        "Led the development of the AI Research Centre website using WordPress, crafting custom themes and plugins to precisely meet client specifications and enhance site functionality. Optimized website performance through the implementation of best practices in responsive design, SEO, and speed optimization, resulting in faster load times and improved user experience. Collaborated with cross-functional teams, including designers and content creators, to deliver high-quality, fully functional websites on time and within scope. Developed a cutting-edge Virtual Mall project using Three.js and TypeScript, creating an immersive 3D shopping experience. [Demo Link](#) and the main [Live Link to the AI Research Centre website](https://aircwou.in)",
+        "At Nivaas Consultant Engineer (NICE), I have worked on a diverse range of projects, from high-rise residential buildings to luxury villas. Notable projects include the 40-story Amaranthine in Hyderabad, the Qualcomm 12-story building in Chennai, and various villa developments like The Valley by Future Trends. My role in these projects spans both structure and architecture, focusing on detailed design, coordination, and problem-solving using Building Information Modeling (BIM).I extensively use software tools like AutoCAD, Revit, and Navisworks to create and manage 3D models, perform clash detection, and streamline project workflows. These tools allow me to ensure precision, improve collaboration, and deliver optimal project outcomes.",
     },
     
+    
   ],
-  educationsummary:"My education has been a journey of exploration and growth, equipping me with a strong foundation in technology and problem-solving. From mastering core concepts to embracing cutting-edge advancements, each step has shaped my ability to innovate and contribute meaningfully to the tech landscape.",
+  educationsummary:"My education in civil engineering has been a journey of exploration and growth, providing me with a strong foundation in both technical knowledge and problem-solving skills. From mastering fundamental concepts in structural design and construction to staying updated with cutting-edge advancements in Building Information Modeling (BIM), each step has played a crucial role in shaping my expertise. This academic journey has not only equipped me with the tools to tackle complex challenges but also fueled my passion for innovation, allowing me to contribute meaningfully to the evolving landscape of the construction and engineering industry.",
   education: [
     {
       id: 1,
-      school: "Woxsen university",
+      school: "Swarnandhra College of Engineering & Technology",
       href: "https://woxsen.edu.in/",
-      degree: "B.tech in Data science and Artificial Intelligence",
+      degree: "B.tech in Civil Engineering",
       logoUrl: "/wou.png",
-      start: "2021",
-      end: "2025",
+      start: "2019",
+      end: "2023",
     },
     
     
@@ -217,9 +154,9 @@ export const DATA = {
   projectssummary:"Explore my projects where ideas meet execution. Each project showcases my dedication to crafting impactful digital experiences, turning concepts into reality.",
   projects: [
     {
-      title: "Eldora UI",
+      title: "AMARANTHINE",
       href: "https://eldoraui.site/",
-      dates: "June 2024 - present",
+      dates: "March 2024 - present",
       active: true,
       description:
         "Collection of [re-usable components](https://eldoraui.site/components) that you can copy and paste into your web apps. It primarily features [components, blocks](https://eldoraui.site/components), and [templates](https://eldoraui.site/templates).",
@@ -233,10 +170,10 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://eldoraui.site/previews/components/core/eldoraui.mp4",
+        "https://www.youtube.com/watch?v=-IqUaCyfawM",
     },
     {
-      title: "Portfolio Template",
+      title: "VIAN VILVA",
       href: "karthikeyavarmamudunuri.vercel.app/",
       dates: "June 2024 - July 2024",
       active: true,
@@ -252,7 +189,7 @@ export const DATA = {
        
       ],
       image: "",
-      video: "https://eldoraui.site/previews/components/core/portfolio.mp4",
+      video: "https://www.youtube.com/watch?v=HkOxBOW88VY&t=84s",
     },
     {
       title: "Saas Template",
