@@ -8,7 +8,7 @@ export const DATA = {
   description3:"Which is a open-source web framework built with",
   summary: "In 2023, I began my professional journey as a BIM modeler with Nivaas Consultant Engineer (NICE). At NICE, I honed my skills in both structural and architectural design using Building Information Modeling (BIM). My role involved creating detailed models for various construction projects, from multi-story buildings to residential villas. Through this position, I gained valuable experience in project coordination, design detailing, and leveraging BIM technology to optimize workflows. Starting at NICE laid the foundation for my growth as a BIM expert, shaping my technical expertise and problem-solving abilities in the field.",
   apperciation: "Take a moment to explore the recognition I've garnered within the Twitter community for my work on [Eldora UI](https://eldoraui.site/). The positive feedback and appreciation from fellow developers and enthusiasts highlight the impact and value of the [EldoraUI](https://eldoraui.site/) project. It's rewarding to see the project being acknowledged and celebrated within the broader tech community!",
-  footer:"Interested in learning more about my professional journey and skill set? [Click here to view my resume](/Mudunuribhaskarakarthikeyavarma-Resume.pdf) and discover the experiences, achievements, and expertise that I bring to the table.",
+  footer:"Interested in learning more about my professional journey and skill set? [Click here to view my resume](/Resume.pdf) and discover the experiences, achievements, and expertise that I bring to the table.",
   linkedin:[
     {
       title: "P R TARAKA RAMA",
